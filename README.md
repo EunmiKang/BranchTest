@@ -1,5 +1,5 @@
 # BranchTest
-branch test
+branch test  
 
-create a branch 'feature1'
-create a branch 'feature2'
+create a branch 'feature1'  
+create a branch 'feature2'  
